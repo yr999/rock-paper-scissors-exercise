@@ -8,6 +8,8 @@ print("Rock, Paper, Scissors, Shoot!")
 
 x=input("Please choose one of either 'rock', 'paper' or 'scissors'")
 
+
+print("User Input")
 print(x)
 
 #Validate the user input
@@ -17,7 +19,8 @@ if  x == "rock" or (x == "paper") or (x == "scissors"):
 else:
     print("oops invalid, please try again")
     exit()
-print ("later messages")
+print ("later messages") 
+
 
 
 
@@ -29,6 +32,6 @@ c = (random.choice(valid_options))
 
 print("Computer Chose")
 
-
+print(c)
 
 # Determine the  winner
