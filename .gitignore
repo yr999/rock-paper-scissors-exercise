@@ -22,3 +22,9 @@ docs/
 
 # Code coverage
 *.lst
+
+#environments names of files from being updated to github
+.env
+.venv
+env/
+
