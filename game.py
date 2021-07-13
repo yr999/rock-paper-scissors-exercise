@@ -6,7 +6,7 @@ print("Rock, Paper, Scissors, Shoot!")
 
 # Ask for a user input
 
-x=input("Please choose one of either 'rock', 'paper' or 'scissors'")
+x=input("Please choose one of either 'rock', 'paper' or 'scissors': ")
 
 
 print("User Input")
@@ -35,3 +35,4 @@ print("Computer Chose")
 print(c)
 
 # Determine the  winner
+
