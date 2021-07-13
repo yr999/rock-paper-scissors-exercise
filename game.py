@@ -11,7 +11,8 @@ load_dotenv() #> loads contents of the .env file into the script's environment
 user_name = os.getenv("USER_NAME")
 
 print(user_name) # reads the variable from the environment
-#> "Hello World"
+
+# > "Hello World"
 
 exit()
 
